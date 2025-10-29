@@ -2,7 +2,7 @@
 web3==6.12.1
 
 # For making HTTP requests, e.g., to a gas oracle API
-requests==2.31.1
+requests==2.31.0
 
 # For loading configuration from .env files
 python-dotenv==1.0.1
