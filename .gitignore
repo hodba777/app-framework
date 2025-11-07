@@ -7,4 +7,6 @@ venv/
 dist/
 build/
 .vscode/
+*.egg-info/
+.idea/
 ```
